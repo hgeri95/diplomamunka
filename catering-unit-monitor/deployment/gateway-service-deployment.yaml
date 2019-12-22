@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gateway-service
+  labels:
+    app: gateway-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: gateway-service
+  template:
+    metadata:
+      labels:
+        app: gateway-service
+    spec:
+      containers:
+      - env:
+        - name: authServiceUrl
+          value: http://user-service:8081
+        - name: cateringServiceUrl
+          value: http://catering-service:8082
+        - name: userServiceUrl
+          value: http://user-service:8081
+        - name: notificationServiceUrl
+          value: http://notification-service:8084
+        - name: ratingServiceUrl
+          value: http://rating-service:8085
+        - name: statisticServiceUrl
+          value: http://statistic-service:8086
+        image: eu.gcr.io/cateringunitmonitorproject/api-gateway-service-build
+        name: gateway-service
+        ports:
+        - name: http
+          containerPort: 8080

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f250cd0-e102-4bde-acbe-fcb5d03d65d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MySQL/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_du.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_du.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_du.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dv.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dv.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dv.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dw.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dw.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dw.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dx.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dx.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dx.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dy.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dy.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/_dy.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/segments_it" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catering-unit-service/bme.cateringunitmonitor.cateringunitservice.dao.CateringUnitDAO/write.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TlHHhgn4GBl2bjU7tQka2hYNvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.0.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tananyag\MSC\1_felev\Onlab1\catering-unit-monitor\mobile-client-app\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tananyag\MSC\1_felev\Onlab1\catering-unit-monitor\mobile-client-app\assets\fonts" />
+      <recent name="C:\Tananyag\MSC\1_felev\Onlab1\catering-unit-monitor\mobile-client-app\actions" />
+      <recent name="C:\Tananyag\MSC\1_felev\Onlab1\catering-unit-monitor\mobile-client-app\context" />
+      <recent name="C:\Tananyag\MSC\1_felev\Onlab1\catering-unit-monitor\mobile-client-app\screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ReactNative" factoryName="React Native" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <react-native value="$USER_HOME$/AppData/Roaming/npm/node_modules/react-native-cli" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <build-and-launch value="false" />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <debug-port value="19001" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f250cd0-e102-4bde-acbe-fcb5d03d65d4" name="Default Changelist" comment="" />
+      <created>1574027675940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574027675940</updated>
+      <workItem from="1574027677115" duration="1940000" />
+      <workItem from="1574198082214" duration="1530000" />
+      <workItem from="1574269468186" duration="5999000" />
+      <workItem from="1574358440252" duration="11195000" />
+      <workItem from="1574455566504" duration="1882000" />
+      <workItem from="1574505307884" duration="13453000" />
+      <workItem from="1574540421139" duration="3893000" />
+      <workItem from="1574590647709" duration="2164000" />
+      <workItem from="1574593501410" duration="2393000" />
+      <workItem from="1574596012101" duration="9791000" />
+      <workItem from="1574608894361" duration="3275000" />
+      <workItem from="1574612407448" duration="364000" />
+      <workItem from="1574613799518" duration="15458000" />
+      <workItem from="1574707643579" duration="1907000" />
+      <workItem from="1574711666471" duration="5312000" />
+      <workItem from="1574785801637" duration="13609000" />
+      <workItem from="1574876104553" duration="12858000" />
+      <workItem from="1574959236694" duration="9162000" />
+      <workItem from="1575054018323" duration="7564000" />
+      <workItem from="1575136848813" duration="6958000" />
+      <workItem from="1575153191788" duration="1582000" />
+      <workItem from="1575188142926" duration="2053000" />
+      <workItem from="1575225803367" duration="3626000" />
+      <workItem from="1575237231209" duration="2317000" />
+      <workItem from="1575240342166" duration="2958000" />
+      <workItem from="1575274484963" duration="18454000" />
+      <workItem from="1575378329912" duration="61000" />
+      <workItem from="1575379148371" duration="58000" />
+      <workItem from="1575619919970" duration="1138000" />
+      <workItem from="1576102860284" duration="771000" />
+      <workItem from="1576789568600" duration="2086000" />
+      <workItem from="1576874297011" duration="1219000" />
+      <workItem from="1576916079980" duration="5337000" />
+      <workItem from="1576945259824" duration="14779000" />
+      <workItem from="1577002969859" duration="1315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2376" height="1226" key="DiffContextDialog" timestamp="1576947045938">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="92" y="92" width="2376" height="1226" key="DiffContextDialog/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576947045938" />
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom" timestamp="1576935410838">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576935410838" />
+    <state width="2539" height="404" key="GridCell.Tab.0.center" timestamp="1576935410838">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.center/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576935410838" />
+    <state width="2539" height="404" key="GridCell.Tab.0.left" timestamp="1576935410838">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.left/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576935410838" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right" timestamp="1576935410838">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2539" height="404" key="GridCell.Tab.0.right/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576935410838" />
+    <state x="1046" y="415" key="RollbackChangesDialog" timestamp="1576947157280">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1046" y="415" key="RollbackChangesDialog/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576947157280" />
+    <state x="1013" y="438" key="VcsDiffUtil.ChangesDialog" timestamp="1576947044452">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1013" y="438" key="VcsDiffUtil.ChangesDialog/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576947044452" />
+    <state x="977" y="442" width="606" height="526" key="find.popup" timestamp="1576960947623">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="977" y="442" width="606" height="526" key="find.popup/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576960947623" />
+    <state x="921" y="431" width="700" height="530" key="recent.locations.popup" timestamp="1576946783130">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="921" y="431" width="700" height="530" key="recent.locations.popup/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576946783130" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1576946416548">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/2560.0.1536.840/0.0.2560.1410@0.0.2560.1410" timestamp="1576946416548" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/Subscription.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
